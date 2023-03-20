@@ -1,0 +1,31 @@
+.subnabar{
+  background-color: #0a5a9c;
+  padding: 20px;
+  margin: 0px;
+
+  top:100px;
+  list-style: none;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  left: 220px;
+  position: flex;
+
+}
+
+.subnabar li a{
+  color: #faf8f8;
+
+}
+.nav-item{
+  color: #faf8f8;
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 50px;
+}
+
+
+
+
+

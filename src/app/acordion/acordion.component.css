@@ -1,0 +1,18 @@
+.sr-only
+{
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    padding: 0;
+    margin: -2px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    right: 10px;
+
+  }
+
+  .max-w-xl {
+    max-width: 100rem;
+    top: 40px;
+  }
